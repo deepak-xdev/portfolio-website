@@ -2,7 +2,7 @@
 Simple HTML & CSS project.
 
 ## Features
-- Responive layout
+- Responsive layout
 - clean UI
 - working links
 - cool animation (using AI)
