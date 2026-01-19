@@ -10,3 +10,6 @@ Simple HTML & CSS project.
 ## What I learned
 - Flexbox
 - css transition
+
+## Live Demo
+https://deepak-xdev.github.io/portfolio-website/
