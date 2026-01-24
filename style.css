@@ -301,12 +301,6 @@ input[type="search"]:focus{
     color: black;
      box-shadow: 0 0 25px red;
 }
-/* video{
-    z-index: -1;
-    position: relative;
-    top: -150px;
-    bottom: 0;
-} */
  .finisher-header{
     position: relative;
     overflow: hidden;
